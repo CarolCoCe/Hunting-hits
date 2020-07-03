@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773493792986",
+    "firebase_url": "https://hunting-hits.firebaseio.com",
+    "project_id": "hunting-hits",
+    "storage_bucket": "hunting-hits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773493792986:android:7dbad61b30954e90a085e3",
+        "android_client_info": {
+          "package_name": "ana.carolina.costa.cesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773493792986-cledvq220al993fr8jjurgev5tvmqjul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjDdAY7BNn-vXjGeVC_Kc8iYeK4vuyzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773493792986-cledvq220al993fr8jjurgev5tvmqjul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
